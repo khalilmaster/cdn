@@ -1,15 +1,15 @@
 [
     {
         "name": "Alabama",
-        "abbreviation": "AL"
+        "abbreviation": "Alabama"
     },
     {
         "name": "Alaska",
-        "abbreviation": "AK"
+        "abbreviation": "Alaska"
     },
     {
         "name": "American Samoa",
-        "abbreviation": "AS"
+        "abbreviation": "American Samoa"
     },
     {
         "name": "Arizona",
@@ -17,19 +17,19 @@
     },
     {
         "name": "Arkansas",
-        "abbreviation": "AR"
+        "abbreviation": "Arkansas"
     },
     {
         "name": "California",
-        "abbreviation": "CA"
+        "abbreviation": "California"
     },
     {
-        "name": "Colorado",
-        "abbreviation": "CO"
+        "name": "California",
+        "abbreviation": "California"
     },
     {
         "name": "Connecticut",
-        "abbreviation": "CT"
+        "abbreviation": "Connecticut"
     },
     {
         "name": "Delaware",
@@ -37,202 +37,202 @@
     },
     {
         "name": "District Of Columbia",
-        "abbreviation": "DC"
+        "abbreviation": "District Of Columbia"
     },
     {
         "name": "Federated States Of Micronesia",
-        "abbreviation": "FM"
+        "abbreviation": "Federated States Of Micronesia"
     },
     {
         "name": "Florida",
-        "abbreviation": "FL"
+        "abbreviation": "Florida"
     },
     {
         "name": "Georgia",
-        "abbreviation": "GA"
+        "abbreviation": "Georgia"
     },
     {
         "name": "Guam",
-        "abbreviation": "GU"
+        "abbreviation": "Guam"
     },
     {
         "name": "Hawaii",
-        "abbreviation": "HI"
+        "abbreviation": "Hawaii"
     },
     {
         "name": "Idaho",
-        "abbreviation": "ID"
+        "abbreviation": "Idaho"
     },
     {
         "name": "Illinois",
-        "abbreviation": "IL"
+        "abbreviation": "Illinois"
     },
     {
         "name": "Indiana",
-        "abbreviation": "IN"
+        "abbreviation": "Indiana"
     },
     {
         "name": "Iowa",
-        "abbreviation": "IA"
+        "abbreviation": "Iowa"
     },
     {
         "name": "Kansas",
-        "abbreviation": "KS"
+        "abbreviation": "Kansas"
     },
     {
         "name": "Kentucky",
-        "abbreviation": "KY"
+        "abbreviation": "Kentucky"
     },
     {
         "name": "Louisiana",
-        "abbreviation": "LA"
+        "abbreviation": "Louisiana"
     },
     {
         "name": "Maine",
-        "abbreviation": "ME"
+        "abbreviation": "Maine"
     },
     {
         "name": "Marshall Islands",
-        "abbreviation": "MH"
+        "abbreviation": "Marshall Islands"
     },
     {
         "name": "Maryland",
-        "abbreviation": "MD"
+        "abbreviation": "Maryland"
     },
     {
         "name": "Massachusetts",
-        "abbreviation": "MA"
+        "abbreviation": "Massachusetts"
     },
     {
         "name": "Michigan",
-        "abbreviation": "MI"
+        "abbreviation": "Michigan"
     },
     {
         "name": "Minnesota",
-        "abbreviation": "MN"
+        "abbreviation": "Minnesota"
     },
     {
         "name": "Mississippi",
-        "abbreviation": "MS"
+        "abbreviation": "Mississippi"
     },
     {
         "name": "Missouri",
-        "abbreviation": "MO"
+        "abbreviation": "Missouri"
     },
     {
         "name": "Montana",
-        "abbreviation": "MT"
+        "abbreviation": "Montana"
     },
     {
         "name": "Nebraska",
-        "abbreviation": "NE"
+        "abbreviation": "Nebraska"
     },
     {
         "name": "Nevada",
-        "abbreviation": "NV"
+        "abbreviation": "Nevada"
     },
     {
         "name": "New Hampshire",
-        "abbreviation": "NH"
+        "abbreviation": "New Hampshire"
     },
     {
         "name": "New Jersey",
-        "abbreviation": "NJ"
+        "abbreviation": "New Jersey"
     },
     {
         "name": "New Mexico",
-        "abbreviation": "NM"
+        "abbreviation": "New Mexico"
     },
     {
         "name": "New York",
-        "abbreviation": "NY"
+        "abbreviation": "New York"
     },
     {
         "name": "North Carolina",
-        "abbreviation": "NC"
+        "abbreviation": "North Carolina"
     },
     {
         "name": "North Dakota",
-        "abbreviation": "ND"
+        "abbreviation": "North Dakota"
     },
     {
         "name": "Northern Mariana Islands",
-        "abbreviation": "MP"
+        "abbreviation": "Northern Mariana Islands"
     },
     {
         "name": "Ohio",
-        "abbreviation": "OH"
+        "abbreviation": "Ohio"
     },
     {
         "name": "Oklahoma",
-        "abbreviation": "OK"
+        "abbreviation": "Oklahoma"
     },
     {
         "name": "Oregon",
-        "abbreviation": "OR"
+        "abbreviation": "Oregon"
     },
     {
         "name": "Palau",
-        "abbreviation": "PW"
+        "abbreviation": "Palau"
     },
     {
         "name": "Pennsylvania",
-        "abbreviation": "PA"
+        "abbreviation": "Pennsylvania"
     },
     {
         "name": "Puerto Rico",
-        "abbreviation": "PR"
+        "abbreviation": "Puerto Rico"
     },
     {
         "name": "Rhode Island",
-        "abbreviation": "RI"
+        "abbreviation": "Rhode Island"
     },
     {
         "name": "South Carolina",
-        "abbreviation": "SC"
+        "abbreviation": "South Carolina"
     },
     {
         "name": "South Dakota",
-        "abbreviation": "SD"
+        "abbreviation": "South Dakota"
     },
     {
         "name": "Tennessee",
-        "abbreviation": "TN"
+        "abbreviation": "Tennessee"
     },
     {
         "name": "Texas",
-        "abbreviation": "TX"
+        "abbreviation": "Texas"
     },
     {
         "name": "Utah",
-        "abbreviation": "UT"
+        "abbreviation": "Utah"
     },
     {
         "name": "Vermont",
-        "abbreviation": "VT"
+        "abbreviation": "Vermont"
     },
     {
         "name": "Virgin Islands",
-        "abbreviation": "VI"
+        "abbreviation": "Virgin Islands"
     },
     {
         "name": "Virginia",
-        "abbreviation": "VA"
+        "abbreviation": "Virginia"
     },
     {
         "name": "Washington",
-        "abbreviation": "WA"
+        "abbreviation": "Washington"
     },
     {
         "name": "West Virginia",
-        "abbreviation": "WV"
+        "abbreviation": "West Virginia"
     },
     {
         "name": "Wisconsin",
-        "abbreviation": "WI"
+        "abbreviation": "Wisconsin"
     },
     {
         "name": "Wyoming",
-        "abbreviation": "WY"
+        "abbreviation": "Wyoming"
     }
 ]
