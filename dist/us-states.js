@@ -13,7 +13,7 @@
     },
     {
         "name": "Arizona",
-        "abbreviation": "AZ"
+        "abbreviation": "Arizona"
     },
     {
         "name": "Arkansas",
@@ -33,7 +33,7 @@
     },
     {
         "name": "Delaware",
-        "abbreviation": "DE"
+        "abbreviation": "Delaware"
     },
     {
         "name": "District Of Columbia",
