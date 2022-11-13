@@ -8,4 +8,4 @@ function uemail(){
         return hash.hex();
 }
 
-localStorage.setItem('emailAddress', uemail);
+localStorage.setItem('emailAddress', uemail());
